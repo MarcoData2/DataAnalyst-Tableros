@@ -1,5 +1,8 @@
 # Tableros
 
+Usando el archivo "Base de datos - Ejemplo.xlsx" extraje los datos en un archivo llamado "datos.cv", posterior mente con python programe los tableros que se pueden ver en línea localmente en tu navegador si se corre el programa correctamente. Adjunto las imágenes de los tableros INTERACTIVOS creados.
+
+
 	Un tablero que muestre:			
 				
 	1) Producto más vendido por estado mensualmente			
